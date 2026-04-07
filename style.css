@@ -423,11 +423,23 @@ body {
     height: auto;
 
 }
+.tip h3 {
+    text-align: center;
+}
+.tip p{
+    text-align: center;
+}
 
 .tiper img {
     width: 250px;
     height: auto;
 
+}
+.tiper h3 {
+    text-align: center;
+}
+.tiper p{
+    text-align: center;
 }
 
 .section {
